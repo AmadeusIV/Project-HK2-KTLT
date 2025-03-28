@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project HK2 KTLT", "Project HK2 KTLT\Project HK2 KTLT.csproj", "{3D048228-5A82-4099-AC9C-FC5D857E507B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D048228-5A82-4099-AC9C-FC5D857E507B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D048228-5A82-4099-AC9C-FC5D857E507B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D048228-5A82-4099-AC9C-FC5D857E507B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D048228-5A82-4099-AC9C-FC5D857E507B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {742678EB-6E6C-43FD-9893-85271FA4947A}
+	EndGlobalSection
+EndGlobal
